@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是黄栩 👋</h1>
+<h1 align="center">你好👋</h1>
 
 <h3 align="center">📊 数据分析 / 数据科学方向学习中 🔎</h3>
 
